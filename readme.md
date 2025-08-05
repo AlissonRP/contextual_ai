@@ -81,7 +81,6 @@ A solução roda **localmente em CPU**, mas foi arquitetada para crescer até
 ## 4. Execução local
 
 ```bash
-pip install -r requirements.txt
 ollama pull gemma3:4b
 ollama pull mxbai-embed-large
 uvicorn main:app --reload         # Swagger em http://127.0.0.1:8000/docs
