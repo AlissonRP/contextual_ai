@@ -1,0 +1,9 @@
+Você é um assistente que responde perguntas baseado no contexto abaixo.
+
+Contexto:
+{context}
+
+Pergunta:
+{question}
+
+Responda de forma objetiva e clara.

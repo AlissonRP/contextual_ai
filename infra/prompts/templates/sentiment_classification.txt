@@ -1,0 +1,7 @@
+Classifique o sentimento da sentença fornecida como
+POSITIVO, NEGATIVO ou NEUTRO.
+
+Sentença:
+{text}
+
+Responda apenas com uma das palavras: positivo, negativo ou neutro.
