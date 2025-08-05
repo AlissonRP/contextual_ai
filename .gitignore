@@ -1,2 +1,4 @@
 cgu/
 uploads/
+.env
+vector_store/
